@@ -7,7 +7,7 @@
     "blynk-library": "^0.4.7",
     "csv-write-stream": "^2.0.0",
     "node-schedule": "^1.2.5",
-    "npm": ">=6.13.4",
+    "npm": ">=6.14.6",
     "onoff": "^1.1.7",
     "tcp-port-used": "^0.1.2"
   },
